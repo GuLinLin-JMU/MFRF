@@ -105,7 +105,7 @@ Table of Contents
 └ └ Value                             
 ```
 ## User Manual/Documentation/Homepage
-Link: [User Manual](https://copytranslator.github.io/guide/)
+Link: [User Manual](https://github.com/GuLinLin-JMU/MFRF/blob/master/MFRF_User_Manual.pdf)
 ## INPUT
 ### Phenotype file
 The file contain a header row, which may represents the trait names. The missing values should be denoted by NA. 
