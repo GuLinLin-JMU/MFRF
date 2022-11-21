@@ -110,7 +110,7 @@ The file contain a header row, which may represents the trait names. The missing
 Notice that only the numeric values are allowed and the characters will not be recognized. However, if a phenotype 
 takes only values of 0, 1 (or only two levels), ***`MFRF`*** would consider it to be a case-control trait, 
 and the predicted value could be directly interpreted as the probability of being a case. <br>
-> `Pheno.txt`
+> `Pheno.txt` <br>
 | Trait1 | Trait2 | Trait3 | Trait4 | Trait5 | Trait6 |
 | :---: | :---: |  :---: |  :---: |  :---: | :---: |
 | 0.214992 | 0.524991 | NA | 1 | NA | -0.285427 |
