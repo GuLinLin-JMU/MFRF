@@ -111,15 +111,15 @@ Notice that only the numeric values are allowed and the characters will not be r
 takes only values of 0, 1 (or only two levels), ***`MFRF`*** would consider it to be a case-control trait, 
 and the predicted value could be directly interpreted as the probability of being a case. <br>
 > `Pheno.txt` <br>
-| Trait1 | Trait2 | Trait3 | Trait4 | Trait5 | Trait6 |
-| :---: | :---: |  :---: |  :---: |  :---: | :---: |
-| 0.214992 | 0.524991 | NA | 1 | NA | -0.285427 |
-| -0.974543 | -0.874542 | NA | 0 | NA | -2.333531 |
-| 0.105909 | 0.395909 | NA | 1 | NA | 0.046818 |
-| NA | NA | -0.678533 | NA | NA | NA |
-| 0.146318 | NA | -0.914243 | NA | -0.774443 | NA |
-| ... | ... | ... | ... | ... | ... |
-| NA | 0.145609 | NA | 0 | NA | 0.720009 |
+| Trait1 | Trait2 | Trait3 | Trait4 | Trait5 | Trait6 | <br>
+| :---: | :---: |  :---: |  :---: |  :---: | :---: | <br>
+| 0.214992 | 0.524991 | NA | 1 | NA | -0.285427 | <br>
+| -0.974543 | -0.874542 | NA | 0 | NA | -2.333531 | <br>
+| 0.105909 | 0.395909 | NA | 1 | NA | 0.046818 |<br>
+| NA | NA | -0.678533 | NA | NA | NA |<br>
+| 0.146318 | NA | -0.914243 | NA | -0.774443 | NA |<br>
+| ... | ... | ... | ... | ... | ... |<br>
+| NA | 0.145609 | NA | 0 | NA | 0.720009 |<br>
 
 ## Running build-in data <br>
 ```R
