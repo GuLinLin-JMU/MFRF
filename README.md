@@ -23,7 +23,7 @@ efficiency and can cope with large data.
 ## Version and download <br>
 * [Version 0.1.0](https://github.com/GuLinLin-JMU/MFRF/archive/master.zip) -First version released on November, 20th, 2022<br>
 ## User Manual <br>
-Link: [User Manual](https://github.com/GuLinLin-JMU/MFRF/blob/master/MFRF_User_Manual.pdf)
+* Link: [User Manual](https://github.com/GuLinLin-JMU/MFRF/blob/master/MFRF_User_Manual.pdf)
 ## The function details of MFRF <br>
 ```
 Table of Contents            
