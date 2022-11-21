@@ -104,6 +104,8 @@ Table of Contents
 │ │ └ seed                          # An integer seed.
 └ └ Value                             
 ```
+## User Manual/Documentation/Homepage
+Link: [User Manual](https://copytranslator.github.io/guide/)
 ## INPUT
 ### Phenotype file
 The file contain a header row, which may represents the trait names. The missing values should be denoted by NA. 
