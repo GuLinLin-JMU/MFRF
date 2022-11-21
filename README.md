@@ -22,7 +22,8 @@ efficiency and can cope with large data.
 
 ## Version and download <br>
 * [Version 0.1.0](https://github.com/GuLinLin-JMU/MFRF/archive/master.zip) -First version released on November, 20th, 2022<br>
-
+## User Manual <br>
+Link: [User Manual](https://github.com/GuLinLin-JMU/MFRF/blob/master/MFRF_User_Manual.pdf)
 ## The function details of MFRF <br>
 ```
 Table of Contents            
@@ -104,8 +105,6 @@ Table of Contents
 │ │ └ seed                          # An integer seed.
 └ └ Value                             
 ```
-## User Manual/Documentation/Homepage
-Link: [User Manual](https://github.com/GuLinLin-JMU/MFRF/blob/master/MFRF_User_Manual.pdf)
 ## INPUT
 ### Phenotype file
 The file contain a header row, which may represents the trait names. The missing values should be denoted by NA. 
