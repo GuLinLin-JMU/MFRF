@@ -139,7 +139,7 @@ and the predicted value could be directly interpreted as the probability of bein
 >                  replace = TRUE, decreasing = TRUE, verbose = TRUE, sampsize = NULL, max.depth = NULL, xtrue = NA) 
 ```
 
-## An R script to correct for fixed effects <br>
+## The R script to correct for fixed effects <br>
 **Note:** Please attention that NAs are not allowed in the **pca.txt**,  and all individuals should be in the same order with phenotype file.
 ```bash
 $ Rscript zzz.R phenotype.txt pca.txt /path/MFRF_work_path/
